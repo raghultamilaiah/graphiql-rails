@@ -231,15 +231,15 @@
 }
 
 .graphiql-container .toolbar-button {
-  background: #fdfdfd;
-  background: linear-gradient(#f9f9f9, #ececec);
+  background: #7DF9FF;
+  /*background: linear-gradient(#f9f9f9, #ececec);*/
   border: 0;
   border-radius: 3px;
   box-shadow:
     inset 0 0 0 1px rgba(0,0,0,0.20),
     0 1px 0 rgba(255,255,255, 0.7),
     inset 0 1px #fff;
-  color: #555;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
   margin: 0 5px;
